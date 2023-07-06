@@ -7,3 +7,4 @@ Creates a directory in tmp
 Move betty
 Delete the file betty
 Delete my_first_directory
+Change to previous directory
