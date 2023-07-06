@@ -8,3 +8,4 @@ Move betty
 Delete the file betty
 Delete my_first_directory
 Change to previous directory
+List of current, parent and boot directories
