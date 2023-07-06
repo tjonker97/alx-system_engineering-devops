@@ -12,3 +12,4 @@ List of current, parent and boot directories
 Prints file type
 Create a symbolic link
 Copy html files
+Move files beginning with uppercase letter
