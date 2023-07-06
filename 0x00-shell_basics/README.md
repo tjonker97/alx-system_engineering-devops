@@ -10,3 +10,4 @@ Delete my_first_directory
 Change to previous directory
 List of current, parent and boot directories
 Prints file type
+Create a symbolic link
