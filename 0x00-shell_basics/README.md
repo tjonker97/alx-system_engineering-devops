@@ -5,3 +5,4 @@ Display current directory contents, including hidden files
 List ids numerically
 Creates a directory in tmp
 Move betty
+Delete the file betty
