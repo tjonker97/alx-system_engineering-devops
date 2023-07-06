@@ -14,3 +14,4 @@ Create a symbolic link
 Copy html files
 Move files beginning with uppercase letter
 Delete files ending with a specific character
+Create multiple directories
