@@ -11,3 +11,4 @@ script that duplicates the last line of the file iacta
 Deletes all files with a .js extension
 a script that counts the number of directories and sub-directories in the current directory.
 What's new
+a script that takes a list of words as input and prints only words that appear exactly once.
