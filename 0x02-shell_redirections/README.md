@@ -12,3 +12,4 @@ Deletes all files with a .js extension
 a script that counts the number of directories and sub-directories in the current directory.
 What's new
 a script that takes a list of words as input and prints only words that appear exactly once.
+Display lines containing the pattern “root” from the file /etc/passwd
