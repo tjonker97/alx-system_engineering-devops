@@ -6,3 +6,4 @@ Display the last 10 lines of /etc/passwd
 Display the first 10 lines of /etc/passwd
 Display third line
 It is a good file that cuts iron without making a noise
+Save current state of directory
