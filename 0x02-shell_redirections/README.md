@@ -8,3 +8,4 @@ Display third line
 It is a good file that cuts iron without making a noise
 Save current state of directory
 script that duplicates the last line of the file iacta
+Deletes all files with a .js extension
