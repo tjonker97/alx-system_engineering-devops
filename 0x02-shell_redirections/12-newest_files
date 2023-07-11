@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -type f -printf '%T@ %p\n' | sort -nr | head -n 10
+ls -lt | awk 'NR <= 11 {print $9}'
