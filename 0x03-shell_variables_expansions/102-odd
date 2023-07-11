@@ -1,2 +1,2 @@
 #!/bin/bash
-perl -ne 'print if $. % 2 == 0;'
+grep -E '^[[:blank:]]*[0-9]*[02468][[:blank:]]' | cut -f2-
