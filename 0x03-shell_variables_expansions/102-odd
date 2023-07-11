@@ -1,2 +1,2 @@
 #!/bin/bash
-cut -n -f2-
+cut -f2-
